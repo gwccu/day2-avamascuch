@@ -1,1 +1,13 @@
 # file name: problemSetDay2.py
+name = input("What is your name?")
+print(name)
+birthday = input("When is your birthday?")
+print(birthday)
+grade = input("What grade are you in?")
+print(grade)
+school = input("What school do you go to?")
+print(school)
+favoritesubject = input("What is your favorite subject?")
+print(favoritesubject)
+growup = input("WHat do you want to be when you grow up?")
+print(growup)
